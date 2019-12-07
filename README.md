@@ -64,7 +64,7 @@
     }
     ```
 
-    ![](./img/mainbody.png)
+    ![](img/mainbody.png)
 
   - 修改Fire_Control_CS.cs的代码，令AI坦克也可开枪
 
